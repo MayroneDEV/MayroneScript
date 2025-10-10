@@ -38,3 +38,5 @@ local animalsList = {
     "Tralalero Tralala", "Los Chicleteiras", "Chachechi", "Extinct Tralalero", "Extinct Ballerina",
     "Extinct Matteo", "Tralaledon", "Tacorita Bicicleta"
 }
+
+return animalsList
